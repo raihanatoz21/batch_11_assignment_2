@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+
+/* hamburger menu bar styles */
+
+
+
+
+   
+
+
+
+
+.navbar{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 30px;
+    
+    
+    
+    
+
+
+}
+
+.log{
+    display: flex;
+
+}
+
+.school{
+    margin-top: 12px;
+    margin-left: 5px;
+    font-weight: 700;
+    font-size: 32px;
+    color: rgb(17, 17, 17);
+    font-family: Quicksand;
+    
+    
+}
+
+.menu-bar{
+    display:flex;
+    margin-top: 20px;
+   
+    }
+
+    .home{
+        text-decoration: none;
+        margin-right: 25px;
+        font-size: 20px;
+        font-weight: 700;
+        color: rgba(254, 163, 1, 1);
+        font-family: Quicksand;
+    }
+    .About{
+        text-decoration: none;
+        margin-right: 25px;
+        font-size: 20px;
+        font-weight: 500px;
+        color: rgba(1, 172, 253, 1);
+        font-family: Quicksand;
+    }
+    .Facility{
+        text-decoration: none;
+        margin-right: 25px;
+        font-size: 20px;
+        font-weight: 500;
+        color: rgba(5, 212, 223, 1);
+        font-family: Quicksand;
+    }
+    .Admission{
+        text-decoration: none;
+        margin-right: 20px;
+        font-size: 20px;
+        font-weight: 500;
+        color: rgba(93, 88, 239, 1);
+        font-family: Quicksand;
+    }
+
+    .button button{
+        padding: 10px;
+        width: 170px;
+        margin-top: 10px;
+        border-radius: 12px;
+        border: none;
+        background-color: rgb(254, 163, 1);
+        color: rgba(255, 255, 255, 1);
+        font-size: 20px;
+        font-weight: 600;
+        font-family: Quicksand;
+
+
+    }
+
+/* main header styles */
+
+.main-header{
+    display: flex;
+    margin-top: 150px;
+    justify-content: space-between;
+
+}
+
+
+.header-left{
+    margin-left: 25px;
+
+ 
+
+
+
+}
+
+.empower{
+ margin-left: 300px;
+ font-family: Quicksand;
+ font-weight: 700;
+ font-size: 3.5rem;
+ color: rgba(254, 163, 1, 1);
+
+
+
+}
+
+.student{
+    margin-left: 300px;
+    font-family: Quicksand;
+    font-weight: 700;
+    font-size: 3.5rem;
+    color: black;
+
+}
+
+.age-toward{
+display: flex;
+margin-left: 297px;
+
+
+}
+
+.age{
+    margin-right:15px;
+    font-weight: 700;
+    font-size: 3.5rem;
+    color: black;
+     font-family:Quicksand; 
+}
+
+.toward{
+    font-weight: 700;
+    font-size: 3.5rem;
+    color: rgba(1, 172, 253, 1);
+    font-family:Quicksand;
+
+}
+
+.instituition-view{
+    margin-left: 300px;
+    margin-right: 180px;
+    margin-top: 20px;
+    font-family:Quicksand;
+    font-size: 20px;
+    font-weight: regular;
+    
+  
+
+
+}
+
+.enroll{
+margin-left: 300px;
+padding: 20px;
+width: 250px;
+margin-top: 30px;
+border: none;
+background-color: black;
+color: rgba(255, 255, 255, 1);
+font-size: 20px;
+font-family:Quicksand;
+font-weight: 700;
+border-radius: 12px;
+
+
+
+}
+
+.header-right{
+    margin-right: 450px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    @media screen and (max-width:576px) {
+
+        
+           }
+
+
+       
+
+        
+    
+
+    
