@@ -12,7 +12,10 @@
 /* hamburger menu bar styles */
 
 
-
+main{
+    background-image: url(../images/bg.png);
+    margin: 0 auto;
+}
 
    
 
@@ -198,6 +201,333 @@ border-radius: 12px;
 
 
 }
+
+/* Main part style(standard curriculum section) */
+
+
+.heading h2{
+justify-content: center;
+text-align: center; 
+font-family:Quicksand;
+font-weight: 700;
+font-size: 46px;
+margin-top: 50px;
+}
+
+.card{
+    
+
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 500px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+    background-image: url(../images/bg.png);    
+
+
+
+
+}
+
+
+.card1{
+
+width: 320px;
+border:2px solid gray;
+height: 450px;
+border-radius: 18.86px;
+background-image: linear-gradient(rgba(0, 0, 0, 0.02), rgba(230, 247, 255), rgba(225, 245, 253), rgba(232, 248, 255));
+margin-right: 30px;
+
+
+
+
+
+}
+
+.card1 img{
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+
+.card2{
+
+    max-width: 320px;
+    border:2px solid gray;
+    height: 450px;
+    border-radius: 18.86px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(255, 255, 255), rgba(225, 253, 249), rgba(255, 249, 237),rgba(255, 245, 227));
+    margin-right: 30px;
+    
+    
+    
+    
+    }
+
+
+
+
+    .card2 img{
+        margin-top: 40px;
+        margin-bottom: 30px;
+    }
+
+
+
+
+    .card3{
+
+        max-width: 320px;
+        border:2px solid gray;
+        height: 450px;
+        border-radius: 18.86px;
+        background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(255, 255, 255), rgba(254, 253, 255), rgba(247, 241, 255), rgba(244, 236, 255),  rgba(243, 233, 255),  rgba(236, 224, 251) );
+        
+        
+        
+        
+        }
+    
+    
+    
+    
+        .card3 img{
+            margin-top: 40px;
+            margin-bottom: 30px;
+        }
+    
+
+
+
+
+
+
+.kinder{
+    margin-bottom: 30px;
+    font-family:Quicksand;
+    font-weight: 700;
+    font-size: 24.52px;
+    color: rgba(128, 128, 128, 1);
+
+}
+
+
+.card1-description{
+   
+    font-family:Raleway;
+    font-weight: 500;
+    font-size: 15.09px;
+    color: rgba(128, 128, 128, 1);
+ 
+
+ 
+}
+
+
+.more-1{
+  margin-top:50px;
+  color: rgb(100, 200, 255);
+  font-family:Quicksand;
+  font-weight: 700;
+ font-size: 15.09px;
+ margin-top: 50px;
+
+}
+
+
+.more-2{
+    margin-top:50px;
+    color: rgb(240, 170, 0);
+    font-family:Quicksand;
+    font-weight: 700;
+   font-size: 15.09px;
+   margin-top: 60px;
+  
+  
+  }
+
+
+
+  .more-3{
+    margin-top:50px;
+    color: rgb(135, 0, 255);
+    font-family:Quicksand;
+    font-weight: 700;
+   font-size: 15.09px;
+   margin-top: 60px;
+  
+  }
+
+
+
+  
+
+
+.card2{
+
+    width: 500px;
+    
+    
+    }
+
+    .card3{
+
+        width: 500px;
+        
+        
+        }
+
+
+        .symbol{
+            display: flex;
+            margin-left: 950px;
+            margin-bottom: 100px;
+            margin-top: 50px;
+            
+        }
+
+        .symbol-1{
+            margin-right:10px;
+           
+            
+        }
+
+        .symbol-1 button{
+            width: 70px;
+            padding: 16px;
+            border-radius: 50%;
+            display: inline-block;
+            background-color: rgb(254, 163, 1);
+            border: none;
+            color: white;
+            font-size:30px;
+            
+        }
+
+
+        .symbol-2 button{
+            width: 70px;
+            padding: 16px;
+            border-radius: 50%;
+            display: inline-block;
+            background-color: rgb(254, 163, 1);
+            border: none;
+            color: white;
+            font-size:30px;
+        }
+
+        /* stories section styles */
+
+        .story-description p{
+            margin-left: 930px;
+            font-family:Quicksand;
+            font-weight: 700;
+            font-size: 46px;
+            color: rgba(0, 0, 0, 1);
+            margin-bottom: 100px;
+
+        }
+
+
+        .big-small-image{
+            display: flex;
+            justify-content: center;
+            height: 800px;
+            background-image: url(../images/bg.png);
+            background-image: linear-gradient(rgba(249, 224, 175), rgba(249, 224, 180), rgba(249, 226, 185));
+
+            
+            
+
+        }
+
+        .big-image{
+
+            height: 650px;
+            background-color:white;
+            margin-right: 50px;
+            border-radius: 20px;
+            
+            
+            
+            
+        }
+  .two-baby-image img{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    margin-bottom: -14px;
+    
+    
+
+
+  }
+
+
+
+
+        .two-baby-button button{
+
+        text-decoration: none;
+        margin-right: 20px;
+        font-size: 15.36px;
+        font-weight: 500;
+        background-color: rgba(60,0216, 232);
+        font-family:Raleway;
+        border: none;
+        border-radius: 47.93px;
+        padding: 15px;
+        color: white;
+        width: 180px;
+        margin-left:30px;
+        margin-top:-50px;
+        margin-bottom: 70px;
+        
+        
+       
+
+        }
+
+
+        
+
+
+
+        .two-baby-description p{
+            max-width: 400px;
+            font-family:Quicksand;
+            font-weight: 700;
+            font-size: 24px;
+            color: rgba(0, 0, 0, 1);
+            margin-left: 40px;
+
+
+
+
+        }
+
+
+        .november{
+            margin-top: 30px;
+            width: 30px;
+            
+
+
+
+        }
+
+        .small-image{
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+
+            gap: none;
+        
+          
+        }
+
+
+
 
 
 
