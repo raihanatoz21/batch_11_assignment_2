@@ -25,7 +25,7 @@ main{
 .navbar{
     display: flex;
     justify-content: space-evenly;
-    margin-top: 30px;
+    margin-top: 1.88rem;
     
     
     
@@ -40,10 +40,10 @@ main{
 }
 
 .school{
-    margin-top: 12px;
-    margin-left: 5px;
+    margin-top: 0.75rem;
+    margin-left: 0.31rem;
     font-weight: 700;
-    font-size: 32px;
+    font-size: 2rem;
     color: rgb(17, 17, 17);
     font-family: Quicksand;
     
@@ -52,52 +52,52 @@ main{
 
 .menu-bar{
     display:flex;
-    margin-top: 20px;
+    margin-top: 1.25rem;
    
     }
 
     .home{
         text-decoration: none;
-        margin-right: 25px;
-        font-size: 20px;
+        margin-right: 1.6rem;
+        font-size: 1.25rem;
         font-weight: 700;
         color: rgba(254, 163, 1, 1);
         font-family: Quicksand;
     }
     .About{
         text-decoration: none;
-        margin-right: 25px;
-        font-size: 20px;
-        font-weight: 500px;
+        margin-right: 1.6rem;
+        font-size: 1.25rem;
+        font-weight: 31.25rem;
         color: rgba(1, 172, 253, 1);
         font-family: Quicksand;
     }
     .Facility{
         text-decoration: none;
-        margin-right: 25px;
-        font-size: 20px;
+        margin-right: 1.6rem;
+        font-size: 1.25rem;
         font-weight: 500;
         color: rgba(5, 212, 223, 1);
         font-family: Quicksand;
     }
     .Admission{
         text-decoration: none;
-        margin-right: 20px;
-        font-size: 20px;
+        margin-right: 1.25rem;
+        font-size: 1.25rem;
         font-weight: 500;
         color: rgba(93, 88, 239, 1);
         font-family: Quicksand;
     }
 
     .button button{
-        padding: 10px;
-        width: 170px;
-        margin-top: 10px;
-        border-radius: 12px;
+        padding: 0.625rem;
+        width: 10.6rem;
+        margin-top: 0.625rem;
+        border-radius: 0.75rem;
         border: none;
         background-color: rgb(254, 163, 1);
         color: rgba(255, 255, 255, 1);
-        font-size: 20px;
+        font-size: 1.25rem;
         font-weight: 600;
         font-family: Quicksand;
 
@@ -108,14 +108,14 @@ main{
 
 .main-header{
     display: flex;
-    margin-top: 150px;
+    margin-top: 9.4rem;
     justify-content: space-between;
 
 }
 
 
 .header-left{
-    margin-left: 25px;
+    margin-left: 1.6rem;
 
  
 
@@ -124,7 +124,7 @@ main{
 }
 
 .empower{
- margin-left: 300px;
+ margin-left: 18.75rem;
  font-family: Quicksand;
  font-weight: 700;
  font-size: 3.5rem;
@@ -135,7 +135,7 @@ main{
 }
 
 .student{
-    margin-left: 300px;
+    margin-left: 18.75rem;
     font-family: Quicksand;
     font-weight: 700;
     font-size: 3.5rem;
@@ -145,13 +145,13 @@ main{
 
 .age-toward{
 display: flex;
-margin-left: 297px;
+margin-left: 18.6rem;
 
 
 }
 
 .age{
-    margin-right:15px;
+    margin-right:0.94rem;
     font-weight: 700;
     font-size: 3.5rem;
     color: black;
@@ -167,11 +167,11 @@ margin-left: 297px;
 }
 
 .instituition-view{
-    margin-left: 300px;
-    margin-right: 180px;
-    margin-top: 20px;
+    margin-left: 18.75rem;
+    margin-right: 11.25px;
+    margin-top: 1.25rem;
     font-family:Quicksand;
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: regular;
     
   
@@ -180,24 +180,24 @@ margin-left: 297px;
 }
 
 .enroll{
-margin-left: 300px;
-padding: 20px;
-width: 250px;
-margin-top: 30px;
+margin-left: 18.75rem;
+padding: 1.25rem;
+width: 15.6rem;
+margin-top: 1.88rem;
 border: none;
 background-color: black;
 color: rgba(255, 255, 255, 1);
-font-size: 20px;
+font-size: 1.25rem;
 font-family:Quicksand;
 font-weight: 700;
-border-radius: 12px;
+border-radius: 1.25rem;
 
 
 
 }
 
 .header-right{
-    margin-right: 450px;
+    margin-right: 28.125rem;
 
 
 }
@@ -210,8 +210,8 @@ justify-content: center;
 text-align: center; 
 font-family:Quicksand;
 font-weight: 700;
-font-size: 46px;
-margin-top: 50px;
+font-size: 2.875rem;
+margin-top: 3.125rem;
 }
 
 .card{
@@ -220,10 +220,10 @@ margin-top: 50px;
     display: flex;
     justify-content: center;
     text-align: center;
-    height: 500px;
-    margin-top: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
+    height: 31.25rem;
+    margin-top: 6.25rem;
+    margin-left: 12.5rem;
+    margin-right: 12.5rem;
     background-image: url(../images/bg.png);    
 
 
@@ -234,12 +234,12 @@ margin-top: 50px;
 
 .card1{
 
-width: 320px;
-border:2px solid gray;
-height: 450px;
-border-radius: 18.86px;
+width: 20rem;
+border:0.125rem solid gray;
+height: 28.125rem;
+border-radius: 1.2rem;
 background-image: linear-gradient(rgba(0, 0, 0, 0.02), rgba(230, 247, 255), rgba(225, 245, 253), rgba(232, 248, 255));
-margin-right: 30px;
+margin-right: 1.875rem;
 
 
 
@@ -248,18 +248,18 @@ margin-right: 30px;
 }
 
 .card1 img{
-    margin-top: 40px;
-    margin-bottom: 30px;
+    margin-top: 2.5rem;
+    margin-bottom: 1.875rem;
 }
 
 .card2{
 
-    max-width: 320px;
-    border:2px solid gray;
-    height: 450px;
-    border-radius: 18.86px;
+    max-width: 20rem;
+    border:0.125rem solid gray;
+    height: 28.125rem;
+    border-radius: 1.2rem;
     background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(255, 255, 255), rgba(225, 253, 249), rgba(255, 249, 237),rgba(255, 245, 227));
-    margin-right: 30px;
+    margin-right: 1.875rem;
     
     
     
@@ -270,8 +270,8 @@ margin-right: 30px;
 
 
     .card2 img{
-        margin-top: 40px;
-        margin-bottom: 30px;
+        margin-top: 2.5rem;
+        margin-bottom: 1.88rem;
     }
 
 
@@ -279,10 +279,10 @@ margin-right: 30px;
 
     .card3{
 
-        max-width: 320px;
-        border:2px solid gray;
-        height: 450px;
-        border-radius: 18.86px;
+        max-width: 20rem;
+        border:0.2rem solid gray;
+        height: 28.125rem;
+        border-radius: 1.2rem;
         background-image: linear-gradient(rgba(0, 0, 0, 0.05), rgba(255, 255, 255), rgba(254, 253, 255), rgba(247, 241, 255), rgba(244, 236, 255),  rgba(243, 233, 255),  rgba(236, 224, 251) );
         
         
@@ -294,8 +294,8 @@ margin-right: 30px;
     
     
         .card3 img{
-            margin-top: 40px;
-            margin-bottom: 30px;
+            margin-top: 2.5rem;
+            margin-bottom: 1.875rem;
         }
     
 
@@ -305,10 +305,10 @@ margin-right: 30px;
 
 
 .kinder{
-    margin-bottom: 30px;
+    margin-bottom: 1.875rem;
     font-family:Quicksand;
     font-weight: 700;
-    font-size: 24.52px;
+    font-size: 1.53rem;
     color: rgba(128, 128, 128, 1);
 
 }
@@ -318,7 +318,7 @@ margin-right: 30px;
    
     font-family:Raleway;
     font-weight: 500;
-    font-size: 15.09px;
+    font-size: 0.94rem;
     color: rgba(128, 128, 128, 1);
  
 
@@ -327,23 +327,23 @@ margin-right: 30px;
 
 
 .more-1{
-  margin-top:50px;
+  margin-top:3.125rem;
   color: rgb(100, 200, 255);
   font-family:Quicksand;
   font-weight: 700;
- font-size: 15.09px;
- margin-top: 50px;
+ font-size: 0.94rem;
+ margin-top: 3.125rem;
 
 }
 
 
 .more-2{
-    margin-top:50px;
+    margin-top:3.125rem;
     color: rgb(240, 170, 0);
     font-family:Quicksand;
     font-weight: 700;
-   font-size: 15.09px;
-   margin-top: 60px;
+   font-size: 0.94rem;
+   margin-top: 3.75rem;
   
   
   }
@@ -351,12 +351,12 @@ margin-right: 30px;
 
 
   .more-3{
-    margin-top:50px;
+    margin-top:3.125rem;
     color: rgb(135, 0, 255);
     font-family:Quicksand;
     font-weight: 700;
-   font-size: 15.09px;
-   margin-top: 60px;
+   font-size: 0.94rem;
+   margin-top: 3.75rem;
   
   }
 
@@ -367,14 +367,14 @@ margin-right: 30px;
 
 .card2{
 
-    width: 500px;
+    width: 31.25rem;
     
     
     }
 
     .card3{
 
-        width: 500px;
+        width: 31.25rem;
         
         
         }
@@ -382,51 +382,51 @@ margin-right: 30px;
 
         .symbol{
             display: flex;
-            margin-left: 950px;
-            margin-bottom: 100px;
-            margin-top: 50px;
+            margin-left: 59.4rem;
+            margin-bottom: 6.25rem;
+            margin-top: 3.125rem;
             
         }
 
         .symbol-1{
-            margin-right:10px;
+            margin-right:0.625rem;
            
             
         }
 
         .symbol-1 button{
-            width: 70px;
-            padding: 16px;
+            width: 4.375rem;
+            padding: 1rem;
             border-radius: 50%;
             display: inline-block;
             background-color: rgb(254, 163, 1);
             border: none;
             color: white;
-            font-size:30px;
+            font-size:1.875rem;
             
         }
 
 
         .symbol-2 button{
-            width: 70px;
-            padding: 16px;
+            width: 4.375rem;
+            padding: 1rem;
             border-radius: 50%;
             display: inline-block;
             background-color: rgb(254, 163, 1);
             border: none;
             color: white;
-            font-size:30px;
+            font-size:1.875rem;
         }
 
         /* stories section styles */
 
         .story-description p{
-            margin-left: 930px;
+            margin-left: 58.125rem;
             font-family:Quicksand;
             font-weight: 700;
-            font-size: 46px;
+            font-size: 2.875rem;
             color: rgba(0, 0, 0, 1);
-            margin-bottom: 70px;
+            margin-bottom: 4.375rem;
 
 
         }
@@ -435,7 +435,7 @@ margin-right: 30px;
         .big-small-image{
             display: flex;
             justify-content: center;
-            height: 800px;
+            height: 50rem;
             background-image: url(../images/bg.png);
             background-image: linear-gradient(rgba(249, 224, 175), rgba(249, 224, 180), rgba(249, 226, 185));
             
@@ -447,19 +447,19 @@ margin-right: 30px;
 
         .big-image{
 
-            height: 650px;
+            height: 40.625rem;
             background-color:white;
-            margin-right: 15px;
-            border-radius: 20px;
+            margin-right: 0.9375;
+            border-radius: 1.25rem;
             
             
             
             
         }
   .two-baby-image img{
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
-    margin-bottom: -14px;
+    border-top-left-radius: 1.25rem;
+    border-top-right-radius: 1.25rem;
+    margin-bottom: -0.875rem;
     
     
 
@@ -472,19 +472,19 @@ margin-right: 30px;
         .two-baby-button button{
 
         text-decoration: none;
-        margin-right: 20px;
-        font-size: 15.36px;
+        margin-right: 1.25rem;
+        font-size: 0.96rem;
         font-weight: 500;
         background-color: rgba(60,0216, 232);
         font-family:Raleway;
         border: none;
-        border-radius: 47.93px;
-        padding: 15px;
+        border-radius: 3rem;
+        padding: 0.9375rem;
         color: white;
-        width: 180px;
-        margin-left:30px;
-        margin-top:-50px;
-        margin-bottom: 70px;
+        width: 11.25rem;
+        margin-left:1.875rem;
+        margin-top:-3.125rem;
+        margin-bottom: 4.375rem;
         
         
        
@@ -497,12 +497,12 @@ margin-right: 30px;
 
 
         .two-baby-description p{
-            max-width: 400px;
+            max-width: 25rem;
             font-family:Quicksand;
             font-weight: 700;
-            font-size: 24px;
+            font-size: 1.5rem;
             color: rgba(0, 0, 0, 1);
-            margin-left: 40px;
+            margin-left: 2.5rem;
 
 
 
@@ -511,8 +511,8 @@ margin-right: 30px;
 
 
         .november{
-            margin-top: 30px;
-            width: 30px;
+            margin-top: 1.875rem;
+            width: 1.875rem;
             
 
 
@@ -523,7 +523,7 @@ margin-right: 30px;
             display: grid;
             grid-template-columns: repeat(2, 1fr);
             height: 0px;
-            gap: 10px;
+            gap: 0.625rem;
             
 
            
@@ -534,11 +534,11 @@ margin-right: 30px;
 
         .small-image-2{
 
-            height: 300px;
+            height: 18.75rem;
             background-color:white;
-            margin-right: 15px;
-            border-radius: 20px;
-            width: 300px;
+            margin-right: 0.94rem;
+            border-radius: 1.25rem;
+            width: 18.75rem;
 
 
 
@@ -550,10 +550,10 @@ margin-right: 30px;
 
         .story-2-image img{
 
-            border-top-left-radius: 10px;
-            border-top-right-radius: 10px;
-            margin-bottom: -12px;
-            width: 300px;
+            border-top-left-radius: 0.625rem;
+            border-top-right-radius: 0.625rem;
+            margin-bottom: -0.75rem;
+            width: 18.75rem;
 
 
 
@@ -562,19 +562,19 @@ margin-right: 30px;
         .two-baby-button-small-2 button{
 
         text-decoration: none;
-        margin-right: 20px;
-        font-size: 15.34px;
+        margin-right: 1.25rem;
+        font-size: 0.96rem;
         font-weight: 500;
         background-color: rgba(149, 178, 38);
         font-family:Raleway;
         border: none;
-        border-radius: 47.93px;
-        padding: 10px;
+        border-radius: 3rem;
+        padding: 0.625rem;
         color: white;
-        width: 160px;
-        margin-left:40px;
-        margin-top:-50px;
-        margin-bottom: 20px;
+        width: 10rem;
+        margin-left:2.5rem;
+        margin-top:-3.125rem;
+        margin-bottom: 1.25rem;
         
         
 
@@ -582,13 +582,13 @@ margin-right: 30px;
         }
 
         .two-baby-description-small p{
-            max-width: 250px;
+            max-width: 15.625rem;
             font-family:Quicksand;
             font-weight: 700;
-            font-size: 15.34px;
+            font-size: 0.96rem;
             color: rgba(0, 0, 0, 1);
-            margin-left: 40px;
-            margin-bottom:;
+            margin-left: 2.5rem;
+            
             
 
         }
@@ -599,11 +599,11 @@ margin-right: 30px;
 
         .small-image-3{
 
-            height: 300px;
+            height: 18.75rem;
             background-color:white;
-            margin-right: 15px;
-            border-radius: 20px;
-            width: 300px;
+            margin-right: 0.94rem;
+            border-radius: 1.25rem;
+            width: 18.75rem;
 
 
 
@@ -615,10 +615,10 @@ margin-right: 30px;
 
         .story-3-image img{
 
-            border-top-left-radius: 10px;
-            border-top-right-radius: 10px;
-            margin-bottom: -12px;
-            width: 300px;
+            border-top-left-radius: 0.625rem;
+            border-top-right-radius: 0.625rem;
+            margin-bottom: -0.75rem;
+            width: 18.75rem;
 
 
 
@@ -627,19 +627,19 @@ margin-right: 30px;
         .two-baby-button-small-3 button{
 
         text-decoration: none;
-        margin-right: 20px;
-        font-size: 15.34px;
+        margin-right: 1.25rem;
+        font-size: 0.96rem;
         font-weight: 500;
         background-color: rgba(93, 88, 240);
         font-family:Raleway;
         border: none;
-        border-radius: 47.93px;
-        padding: 10px;
+        border-radius: 3rem;
+        padding: 0.625rem;
         color: white;
-        width: 160px;
-        margin-left:40px;
-        margin-top:-50px;
-        margin-bottom: 20px;
+        width: 10rem;
+        margin-left:2.5rem;
+        margin-top:-3.125rem;
+        margin-bottom: 1.25rem;
         
         
 
@@ -647,12 +647,12 @@ margin-right: 30px;
         }
 
         .two-baby-description-small-3 p{
-            max-width: 250px;
+            max-width: 15.625rem;
             font-family:Quicksand;
             font-weight: 700;
-            font-size: 15.34px;
+            font-size: 0.96rem;
             color: rgba(0, 0, 0, 1);
-            margin-left: 40px;
+            margin-left: 2.5rem;
            
             
 
@@ -664,11 +664,11 @@ margin-right: 30px;
 
         .small-image-4{
 
-            height: 320px;
+            height: 20rem;
             background-color:white;
-            margin-right: 15px;
-            border-radius: 20px;
-            width: 300px;
+            margin-right: 0.94rem;
+            border-radius: 1.25rem;
+            width: 18.75rem;
 
 
 
@@ -676,10 +676,10 @@ margin-right: 30px;
 
         .story-4-image img{
 
-            border-top-left-radius: 10px;
-            border-top-right-radius: 10px;
-            margin-bottom: -12px;
-            width: 300px;
+            border-top-left-radius: 0.625rem;
+            border-top-right-radius: 0.625rem;
+            margin-bottom: -0.75rem;
+            width: 18.75rem;
 
 
 
@@ -690,29 +690,29 @@ margin-right: 30px;
         .two-baby-button-small-4 button{
 
             text-decoration: none;
-            margin-right: 20px;
-            font-size: 15.34px;
+            margin-right: 1.25rem;
+            font-size: 0.96rem;
             font-weight: 500;
             background-color: rgba(149, 178, 38);
             font-family:Raleway;
             border: none;
-            border-radius: 47.93px;
-            padding: 10px;
+            border-radius: 3rem;
+            padding: 0.625rem;
             color: white;
-            width: 160px;
-            margin-left:40px;
-            margin-top:-50px;
-            margin-bottom: 20px;
+            width: 10rem;
+            margin-left:2.5rem;
+            margin-top:-3.125rem;
+            margin-bottom: 1.25rem;
             
         }
 
         .two-baby-description-small-4 p{
-            max-width: 250px;
+            max-width: 15.63rem;
             font-family:Quicksand;
             font-weight: 700;
-            font-size: 15.34px;
+            font-size: 0.96rem;
             color: rgba(0, 0, 0, 1);
-            margin-left: 40px;
+            margin-left: 2.5rem;
            
             
 
@@ -723,11 +723,11 @@ margin-right: 30px;
 
         .small-image-5{
 
-            height: 320px;
+            height: 20rem;
             background-color:white;
-            margin-right: 15px;
-            border-radius: 20px;
-            width: 300px;
+            margin-right: 0.94rem;
+            border-radius: 1.25rem;
+            width: 18.75rem;
 
 
 
@@ -735,10 +735,10 @@ margin-right: 30px;
 
         .story-5-image img{
 
-            border-top-left-radius: 10px;
-            border-top-right-radius: 10px;
-            margin-bottom: -12px;
-            width: 300px;
+            border-top-left-radius: 0.625rem;
+            border-top-right-radius: 0.625rem;
+            margin-bottom: -0.75rem;
+            width: 18.75rem;
 
 
 
@@ -749,29 +749,29 @@ margin-right: 30px;
         .two-baby-button-small-5 button{
 
             text-decoration: none;
-            margin-right: 20px;
-            font-size: 15.34px;
+            margin-right: 1.25rem;
+            font-size: 0.96rem;
             font-weight: 500;
             background-color: rgba(149, 178, 38);
             font-family:Raleway;
             border: none;
-            border-radius: 47.93px;
-            padding: 12px;
+            border-radius: 3rem;
+            padding: 0.75rem;
             color: white;
-            width: 130px;
-            margin-left:40px;
-            margin-top:-50px;
-            margin-bottom: 20px;
+            width: 8.125rem;
+            margin-left:2.5rem;
+            margin-top:-3.125rem;
+            margin-bottom: 1.25rem;
             
         }
 
         .two-baby-description-small-5 p{
-            max-width: 250px;
+            max-width: 15.63rem;
             font-family:Quicksand;
             font-weight: 700;
-            font-size: 15.34px;
+            font-size: 0.96rem;
             color: rgba(0, 0, 0, 1);
-            margin-left: 40px;
+            margin-left: 2.5rem;
            
             
 
@@ -780,7 +780,7 @@ margin-right: 30px;
         .view-all-button{
             background-image: linear-gradient(rgba(249, 224, 175), rgba(249, 224, 180), rgba(249, 226, 185));
 
-            height: 120px;
+            height: 7.5rem;
          
 
         }
@@ -788,15 +788,15 @@ margin-right: 30px;
 
 
         .view-all-button button{
-            width: 200px;
-            padding: 15px;
-            margin-left: 900px;
+            width: 12.5rem;
+            padding: 0.94rem;
+            margin-left: 56.25rem;
             background-color: black;
             color:white;
-            font-size: 20px;
+            font-size: 1.25rem;
             font-weight: 700;
             font-family: Quicksand;
-            border-radius: 12px;
+            border-radius: 0.75rem;
             
 
         }
@@ -809,7 +809,7 @@ margin-right: 30px;
         .footer{
             display: flex;
             background-color: rgb(1, 172, 253);
-            height: 500px;
+            height: 31.25rem;
             justify-content: center;
             align-items: center;
             justify-items: center;
@@ -821,9 +821,9 @@ margin-right: 30px;
 
             font-family:Quicksand;
             font-weight: 700;
-            font-size: 42.14px;
+            font-size: 2.633rem;
             color:white;
-            margin-left: 20px;
+            margin-left: 1.25rem;
 
 
         }
@@ -834,9 +834,9 @@ margin-right: 30px;
 
             font-family:Quicksand;
             font-weight: 400;
-            font-size:20px;
+            font-size:1.25rem;
             color:white;
-            margin-top: 40px;
+            margin-top: 2.5rem;
            
 
 
@@ -849,8 +849,8 @@ margin-right: 30px;
 
 
         .kid-education{
-            margin-top: 100px;
-            margin-right: 500px;
+            margin-top: 6.25rem;
+            margin-right: 31.25rem;
 
 
         }
@@ -863,7 +863,7 @@ margin-right: 30px;
         }
 
         .logo-image img{
-            height: 100px;
+            height: 6.25rem;
   
        
 
@@ -872,13 +872,13 @@ margin-right: 30px;
 
 
         .kid-education-description{
-            margin-top: 30px;
-            margin-left: 15px;
+            margin-top: 1.875rem;
+            margin-left: 0.94rem;
         }
 
         .about-school{
-          margin-left: -300px;
-          margin-right: 200px;
+          margin-left: -18.75rem;
+          margin-right: 12.5rem;
           
           
 
@@ -887,10 +887,10 @@ margin-right: 30px;
         .about-school p{
             font-family:Quicksand;
             font-weight: 700;
-            font-size:24px;
+            font-size:1.5rem;
             color:white;
-            margin-bottom: 20px;
-            margin-top: 150px;
+            margin-bottom: 1.25rem;
+            margin-top: 9.375rem;
 
         }
 
@@ -898,7 +898,7 @@ margin-right: 30px;
 
         .about-school ul li{
             list-style-type: none;
-            padding: 10px;
+            padding: 0.625rem;
             
 
         }
@@ -910,7 +910,7 @@ margin-right: 30px;
           color: rgb(255, 255, 255, 1);
           font-family:Quicksand;
             font-weight: 500;
-            font-size:20px;
+            font-size:1.25rem;
 
          
         
@@ -921,10 +921,10 @@ margin-right: 30px;
         .keep-touch p{
             font-family:Quicksand;
             font-weight: 700;
-            font-size:26px;
+            font-size:1.625rem;
             color: rgb(255, 255, 255, 1);
-            margin-top: 20px;
-            margin-bottom: 20px;
+            margin-top: 1.25rem;
+            margin-bottom: 1.25rem;
 
 
 
@@ -932,7 +932,7 @@ margin-right: 30px;
 
         .social_media{
             display: flex;
-            gap: 10px;
+            gap: 0.625rem;
 
         }
 
