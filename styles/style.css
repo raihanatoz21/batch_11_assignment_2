@@ -3,7 +3,7 @@
 
 
 *{
-    margin: 0;
+    margin:0;
     padding: 0;
     
     
@@ -33,6 +33,10 @@ main{
 
 
 }
+
+
+
+
 
 .log{
     display: flex;
@@ -103,6 +107,14 @@ main{
 
 
     }
+
+
+    #hamburger-menu{
+        visibility: hidden;
+
+    }
+
+
 
 /* main header styles */
 
@@ -939,7 +951,7 @@ margin-right: 1.875rem;
 
 
 
-       
+       /* small/mobile device styles */
 
 @media screen and (max-width:576px) {
 
@@ -971,7 +983,7 @@ margin-right: 1.875rem;
     }
 
 
-    .symbol-1 button, .symbol-2 button, .two-baby-image img, .big-image {
+    .symbol-1 button, .symbol-2 button, .two-baby-image img, .big-image, .school, .menu-bar, .button button {
         visibility: hidden;
 
 
@@ -989,6 +1001,15 @@ margin-right: 1.875rem;
         
 
     }
+
+
+
+    
+
+
+
+
+    
 
     .small-image{
         display: grid;
@@ -1050,6 +1071,205 @@ margin-right: 1.875rem;
         
 
     }
+
+
+
+    .small-image-3{
+
+        height:200px;
+        background-color:white;
+        margin-right:0px;
+        border-radius:10px;
+        width: 200px;
+        margin-left: -120px;
+        
+
+
+
+    }
+
+
+
+     .story-3-image img{
+        width: 200px;
+        margin-bottom: -15px;
+
+     }
+
+
+     .two-baby-button-small-3 button{
+
+        text-decoration: none;
+        margin-right:0px;
+        font-size: 10px;
+        font-weight: 500;
+        background-color: rgba(149, 178, 38);
+        font-family:Raleway;
+        border: none;
+        border-radius: 1rem;
+        padding: 5px;
+        color: white;
+        width: 100px;
+        margin-left:30px;
+        margin-bottom: 1.25rem;
+
+    }
+
+
+    .two-baby-description-small p{
+        max-width:200px;
+        font-family:Quicksand;
+        font-weight:700;
+        font-size: 5px;
+        color: rgba(0, 0, 0, 1);
+        margin-left:20px;
+        
+        
+
+    }
+
+
+    .navbar{
+
+        
+
+
+    }
+
+
+
+
+    #hamburger-menu{
+       visibility: visible;
+
+    }
+
+
+    .main-header{
+        flex-direction: column-reverse;
+
+    }
+
+
+   .header-left{
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    margin-left:0px;
+
+   }
+
+
+
+   .view-all-button{
+            margin-left: -820px;
+            
+            
+
+
+
+   }
+
+   .view-all-button button{
+    padding: 5px;
+    border-radius: 20px;
+    width: 150px;
+    
+
+
+   }
+
+
+ 
+
+   .footer{
+    display:grid;
+    grid-template-columns: repeat(1, 1fr);
+    background-color: rgb(1, 172, 253);
+    height: 1000px;
+    
+    
+    
+}
+
+.logo-image{
+margin-left: 350PX;
+
+
+
+}
+
+
+
+.kid-education-saying{ 
+
+    font-size: 20px;
+    margin-top: 20px;
+    margin-left: -4px;
+    
+
+
+
+}
+
+
+
+.kid-education-description p{
+    margin-left: 350px;
+    font-size: 16px;
+    font-family: Quicksand;
+    font-weight: 400;
+    width:250px;
+    margin-right: -100px;
+
+
+
+}
+
+
+.about-school p{
+
+    margin-left:350px;
+
+
+}
+
+
+
+.about-school ul li{
+margin-left: 340px;
+
+
+}
+
+
+
+.keep-touch p{
+
+    margin-left:-90px;
+
+
+
+}
+
+
+
+
+.facebook{
+    margin-left: -90px;
+
+
+
+    
+            
+
+
+}
+
+
+   
+
+   
 
 
 
